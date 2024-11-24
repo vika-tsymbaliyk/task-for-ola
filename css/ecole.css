@@ -1,0 +1,28 @@
+body {
+    background-color: beige;
+    
+}
+.construction{
+    color: red;
+}
+
+
+.tel::before{
+    content: "📞";
+}
+
+.email::before{
+    content: "✉️";
+}
+
+
+/* INDEX PAGE */
+.header-container{
+    border: 1px solid black;
+    background-color: lightseagreen;
+}
+
+/* GROUPS PAGE */
+
+
+/* PHOTOS PAGE */
